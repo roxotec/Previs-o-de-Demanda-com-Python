@@ -1,4 +1,4 @@
-# Previs-o-de-Demanda-com-Python
+# Previsão de Demanda Logística com Python
 
 Modelo simples de previsão semanal de demanda logística com base em dados históricos.
 
